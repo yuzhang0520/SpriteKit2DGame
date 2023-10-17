@@ -1,6 +1,7 @@
 # SpriteKit2DGame
 <p>A SriteKit 2D game where the objects will be dropped from the top of the screen to the bottom of the screen.</p>
 
+<b>Descripition</b><br>
 • A player is placed at the bottom of the screen and use screen touches to only move side to side.<br>
 • The player must avoid the dropping objects or will die.<br>
 • Have every 5th dropped object be an object (different image sprite) the player must collide with for points.<br>
